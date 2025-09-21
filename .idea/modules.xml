@@ -3,11 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/JAVA.iml" filepath="$PROJECT_DIR$/JAVA.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/untitled/baitap.iml" filepath="$PROJECT_DIR$/untitled/baitap.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learn_OOP.iml" filepath="$PROJECT_DIR$/.idea/learn_OOP.iml" />
 >>>>>>> 5fc7cc61fb0f7fa84150861206c5b18deef29162
+=======
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/doan_OOP.iml" filepath="$PROJECT_DIR$/.idea/doan_OOP.iml" />
+>>>>>>> b5a97c9 (21/9 nam thinh nhan vien , khach hang)
     </modules>
   </component>
 </project>
